@@ -38,9 +38,11 @@ You can find more info and the firmware download link here: [970 EVO Plus Firmwa
 
 2. Navigate to *RT Variables > CsrActivateConfig*
 
-3. Change `CsrActivateConfig` to appropriate value
+3. Change *CsrActivateConfig* to appropriate value:
+
   *Disable* SIP: `0x67`
   *Enable* SIP: `0x00`
+
 4. *Reboot* Hackintosh to apply these changes.
 
 ### When Quick Look and Preview fails
