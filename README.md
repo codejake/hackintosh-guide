@@ -30,7 +30,7 @@ You can find more info and the firmware download link here: [970 EVO Plus Firmwa
 
 * Follow  [Corpnewt’s Vanilla Desktop Guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/). Be sure to follow each step closely and do not forget about the Coffee Lake section.
 
-* After that, follow then[GitHub - corpnewt/USBMap](https://github.com/corpnewt/USBMap) instructions to get your USB ports working right.
+* After that, follow then[GitHub - corpnewt/USBMap](https://github.com/corpnewt/USBMap) instructions to get your USB ports working right. I have made [my USBMap file](SSDT-UIAC.aml) available here. It should work for you if you have the exact same motherboard as me. Download it and copy it to `/Volumes/EFI/CLOVER/ACPI/patched/`.
 
 I currently use the `iMac18,3` system identifier. As of 10.14.5, I should probably use `iMac19,something` but what I have now works really well.
 
