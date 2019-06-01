@@ -32,6 +32,8 @@ You can find more info and the firmware download link here: [970 EVO Plus Firmwa
 
 * After that, follow then[GitHub - corpnewt/USBMap](https://github.com/corpnewt/USBMap) instructions to get your USB ports working right.
 
+I currently use the `iMac18,3` system identifier. As of 10.14.5, I should probably use `iMac19,something` but what I have now works really well.
+
 ## Post-Installation
 
 ### I recommend you enable SIP
