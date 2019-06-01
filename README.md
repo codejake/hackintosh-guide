@@ -15,7 +15,7 @@ But keep things as vanilla as possible. Make minimal changes from the default in
 
 * Intel i7-8700K CPU
 * Sapphire RX 580 Nitro+ SE GPU
-* ASUS Z390-I ITX motherboard
+* ASUS Z390-I Gaming motherboard
 * Samsung 970 EVO Plus NVMe SSD
 * Fractal Design Define Nano S mini-ITX case
 
@@ -54,3 +54,9 @@ There are a couple ways to fix this:
 Now, you simply add `shikigva=32` and `shiki-id=Mac-7BA5B2D9E42DDD94` to your boot arguments in config.plist.
 
 So, what does this do? Well, it tells this part of the OS that it is an iMac Pro and that it does not have an iGPU, only a discrete GPU and the system should use that. This does not change your SMBIOS stuff (the Mac model your hackintosh identifies as).
+
+## What Doesn't Work Yet
+
+### Wi-Fi/Bluetooth
+
+Planned fix: to buy a Dell DW 1560 wi-fi/bluetooth card and swap it on the motherboard. There are many different Broadcom cards that are compatible with macOS, but you need one that is the same form factor as the Intel card the motherboard comes with, otherwise you cannot fit the integral heatsink back over the ports. I learned this the hard way. If this is important to you, just buy the Dell DW 1560. It will fit right in.
