@@ -6,9 +6,9 @@
 This document is not a step-by-step guide. Rather, it augments [Corpnewt’s  Vanilla Desktop Guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) with hardware specific tweaks.
 
 ## Warning
-You will run into roadblocks. And everyone will give you their advice, most of it awful. Stay away from Unibeast, Multibeast, Tonymacx86.com, etc.
+You will run into roadblocks. And everyone will give you their advice, most of it *awful*. Stay away from Unibeast, Multibeast, Tonymacx86.com, etc.
 
-But keep things as vanilla as possible. Make minimal changes from the default installation. Make sure you understand the changes you are making.
+But keep things as vanilla as possible. Make minimal changes from the default installation. *Make sure you understand the changes you are making*.
 
 ## Hardware Build
 * Here is my exact build on [PCPartPicker](https://pcpartpicker.com/list/MCX2Cb).
@@ -52,3 +52,5 @@ There are a couple ways to fix this:
 2. Add a couple of boot arguments to your config.plist. This option replaces the NoVPAJPEG kernel extension. NoVPAJPEG was recently deprecated and its functionality was [moved into WhateverGreen](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.OldPlugins.en.md).
 
 Now, you simply add `shikigva=32` and `shiki-id=Mac-7BA5B2D9E42DDD94` to your boot arguments in config.plist.
+
+So, what does this do? Well, it tells this part of the OS that it is an iMac Pro and that it does not have an iGPU, only a discrete GPU and the system should use that. This does not change your SMBIOS stuff (the Mac model your hackintosh identifies as).
