@@ -1,4 +1,7 @@
 # Z390-I Hackintosh Notes
+
+::This is currently a work-in-progress and it is incomplete.::
+
 ## Introduction
 This document is not a step-by-step guide. Rather, it augments [Corpnewt’s  Vanilla Desktop Guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) with hardware specific tweaks.
 
@@ -27,12 +30,14 @@ You can find more info and the firmware download link here: [970 EVO Plus Firmwa
 
 ## Post-Installation
 ### I recommend you enable SIP
-	1. Open `config.plist` in  [Clover Configurator](http://mackie100projects.altervista.org/download-clover-configurator/) 
-	2. Navigate to *RT Variables > CsrActivateConfig*
-	3. Change `CsrActivateConfig` to appropriate value
-	*Disable* SIP: `0x67`
-	*Enable* SIP: `0x00`
-	4. *Reboot* Hackintosh to apply these changes.
+1. Open `config.plist` in  [Clover Configurator](http://mackie100projects.altervista.org/download-clover-configurator/) 
+
+2. Navigate to *RT Variables > CsrActivateConfig*
+
+3. Change `CsrActivateConfig` to appropriate value
+  *Disable* SIP: `0x67`
+  *Enable* SIP: `0x00`
+4. *Reboot* Hackintosh to apply these changes.
 
 ### When Quick Look and Preview fails
 * There are a couple ways to fix this: 
