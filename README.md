@@ -1,4 +1,4 @@
-# Z390-I Hackintosh Notes
+# 2019 Hackintosh Build Notes
 
 ⚠️ This is currently a work-in-progress and it is incomplete. ⚠️
 
