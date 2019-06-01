@@ -1,6 +1,6 @@
 # Z390-I Hackintosh Notes
 
-::This is currently a work-in-progress and it is incomplete.::
+⚠️ This is currently a work-in-progress and it is incomplete. ⚠️
 
 ## Introduction
 This document is not a step-by-step guide. Rather, it augments [Corpnewt’s  Vanilla Desktop Guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) with hardware specific tweaks.
