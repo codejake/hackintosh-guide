@@ -5,6 +5,8 @@
 ## Introduction
 This document is not a step-by-step guide. Rather, it augments [Corpnewt’s  Vanilla Desktop Guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) with hardware specific tweaks.
 
+My goal was to get as close to an unmolested vanilla macOS install as I could and I believe I have succeeded.
+
 ## Warning
 You will run into roadblocks. And everyone will give you their advice, most of it *awful*. Stay away from Unibeast, Multibeast, Tonymacx86.com, etc.
 
