@@ -20,7 +20,7 @@ But keep things as vanilla as possible. Make minimal changes from the default in
 * ASUS Z390-I Gaming motherboard
 * Samsung 970 EVO Plus NVMe SSD
 * Fractal Design Define Nano S mini-ITX case
-* Dell DW1560 Wi-F/Bluetooth Card (Off of eBay)
+* Dell DW1560 Wi-F/Bluetooth Card (I bought mine from [honeybee_technologies on eBay](https://www.ebay.com/usr/honeybee_technologies). They shipped it fast and I got it a few days after ordering.)
 
 ## Pre-installation
 
