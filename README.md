@@ -65,4 +65,8 @@ So, what does this do? Well, it tells this part of the OS that it is an iMac Pro
 
 ### Wi-Fi/Bluetooth
 
-Planned fix: to buy a Dell DW 1560 wi-fi/bluetooth card and swap it on the motherboard. There are many different Broadcom cards that are compatible with macOS, but you need one that is the same form factor as the Intel card the motherboard comes with, otherwise you cannot fit the integral heatsink back over the ports. I learned this the hard way. If this is important to you, just buy the Dell DW 1560. It will fit right in.
+Planned fix: to buy a Dell DW 1560 wi-fi/bluetooth card and swap it on the motherboard. 
+
+I learned this the hard way. There are many different Broadcom cards that are compatible with macOS, but you need one that is the same form factor as the Intel card the motherboard comes with, otherwise you cannot fit the integral heatsink back over the ports. 
+
+Most cards are too tall. The motherboard's antenna connectors will not reach and the integral heat sink port cover will not fit back into place. If Wi-Fi and Bluetooth are important to you, just buy the Dell DW 1560. It will fit right in.
