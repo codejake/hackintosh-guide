@@ -20,15 +20,17 @@ But keep things as vanilla as possible. Make minimal changes from the default in
 * ASUS Z390-I Gaming motherboard
 * Samsung 970 EVO Plus NVMe SSD
 * Fractal Design Define Nano S mini-ITX case
-* Dell DW1560 Wi-F/Bluetooth Card (I bought mine from [honeybee_technologies on eBay](https://www.ebay.com/usr/honeybee_technologies). They shipped it fast and I got it a few days after ordering.)
+* Dell DW1560 Wi-F/Bluetooth Card ()
 
 ## Pre-installation
 
 ### (Optional) Swap out the Wi-Fi/Bluetooth Card
 
-Your motherboard comes with a very small Wi-Fi/Bluetooth m.2 card. It's a great card that works wonderfully in Windows 10. However, there are currently no macOS drivers for it. Your best option is the Dell DW 1560 Wi-Fi/Bluetooth card. Buy it off a reputable seller on eBay and expect to pay between $35-$60, depending on the day. You do not need any sort of daughterboard or converter board. It's a "simple" swap-out.
+Your motherboard comes with a very small Wi-Fi/Bluetooth m.2 card. It's a great card that works wonderfully in Windows 10. However, there are currently no macOS drivers for it. Your best option is the Dell DW 1560 Wi-Fi/Bluetooth card. You do not need any sort of daughterboard or converter board. It's a "simple" swap-out.
 
-I learned this the hard way. There are many different Broadcom cards that are compatible with macOS, but you need one that is the same form factor as the Intel card the motherboard comes with, otherwise you cannot fit the integral heatsink back over the ports. 
+Buy it off a reputable seller on eBay and expect to pay between $35-$60, depending on the day. I bought mine from [honeybee_technologies on eBay](https://www.ebay.com/usr/honeybee_technologies). They shipped it fast and I got it a few days after ordering.
+
+Again, don't mess around, just buy the DW1560. I learned this the hard way. There are many different Broadcom cards that are compatible with macOS, but you need one that is the same form factor as the Intel card the motherboard comes with, otherwise you cannot fit the integral heatsink back over the ports. You need this heatsink in place.
 
 Most cards are too tall. The motherboard's antenna connectors will not reach and the integral heat sink port cover will not fit back into place. If Wi-Fi and Bluetooth are important to you, just buy the Dell DW 1560. It will fit right in.
 
