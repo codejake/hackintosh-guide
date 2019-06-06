@@ -7,6 +7,8 @@ This document is not a step-by-step guide. Rather, it augments [Corpnewt’s  Va
 
 My goal was to get as close to an unmolested vanilla macOS install as I could and I believe I have succeeded.
 
+I have voluntarily reinstalled my macOS install several times to get practiced and test and document things. I publish this document to help others in my shoes. Feel free to ask me questions [on Twitter](https://twitter.com/codejake), but make sure you've read corpnewt's guide, have some clue, and have already diligently Googled.
+
 ## Warning
 You will run into roadblocks. And everyone will give you their advice. Most of it *awful*. Stay away from Unibeast, Multibeast, Tonymacx86.com, random people, etc.
 
@@ -56,6 +58,14 @@ I currently use the `iMac18,3` system identifier. As of 10.14.5, I should probab
 
 
 ## Post-Installation
+
+### Map Your USB Ports
+
+For whatever reason, macOS has a 15 port limit on USB ports. Each USB port counts as two ports. You need to map them appropriately for your motherboard.
+
+You can [follow the instructions for corpnewt's USBMap](https://github.com/corpnewt/USBMap) to get things working. The instructions look daunting, but just follow it step by step, it's not actually that hard.
+
+If you have the same ASUS Z390-I Gaming motherboard as me, you probably can just download my [SSDT-UIAC.aml](SSDT-UIAC.aml) file and throw it in your `EFI/CLOVER/ACPI/patched` folder and reboot.
 
 ### I recommend you enable SIP
 
