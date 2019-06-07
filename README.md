@@ -122,7 +122,7 @@ So, what does this do? Well, it tells this part of the OS that it is an iMac Pro
 * Etc.
 
 
-## What Doesn't Work Yet
+## What I Don't Have Working Yet
 
 * Unlock with Apple Watch.
 * ~~Wi-Fi/Bluetooth~~ FIXED! Bluetooth, Wi-Fi, AirDrop, AirPods, Continuity work wonderfully!
@@ -134,3 +134,9 @@ So, what does this do? Well, it tells this part of the OS that it is an iMac Pro
 ## FAQs
 
 WIP. Feel free to ask me questions [on Twitter](https://twitter.com/codejake).
+
+### Should I build a hackintosh or buy a Mac?
+
+If you have to ask, just buy a Mac instead. You'll spend much more money and have much less expandability, the safety and support you get with a Mac probably makes the price premium  worth it.
+
+Even though the hackintosh process has been much-streamlined as of late, it still involves quite a bit of tinkering. If you like to tinker, then you might want to give it a try.
