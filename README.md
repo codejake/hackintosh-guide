@@ -5,7 +5,7 @@
 ## Introduction
 This document is not a step-by-step guide. Rather, it augments [Corpnewt’s  Vanilla Desktop Guide](https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/) with hardware-specific tweaks.
 
-My goal was to get as close to an unmolested vanilla macOS install as I could and I believe I have succeeded.
+My goal was to have an unmolested, vanilla macOS install as I could and so far, I have succeeded.
 
 I have voluntarily reinstalled my macOS install several times to get practiced and test and document things. I publish this document to help others in my shoes. Feel free to ask me questions [on Twitter](https://twitter.com/codejake), but make sure you've read corpnewt's guide, have some clue, and have already diligently Googled.
 
