@@ -60,9 +60,14 @@ I currently use the `iMac18,3` system identifier. As of 10.14.5, I should probab
 
 ### The Kexts I Use
 
+You should not need any more, or any less than this. The Airport* and Brcm* kexts are for the Dell DW1560, so you can skip those if you do not have this card.
+
 ![EFI](EFI.png)
 
-You should not need any more, or any less than this. The Airport* and Brcm* kexts are for the Dell DW1560, so you can skip those if you do not have this card.
+### The config.plist I Use
+
+Coming soon.
+
 
 ## Post-Installation
 
