@@ -127,4 +127,4 @@ So, what does this do? Well, it tells this part of the OS that it is an iMac Pro
 
 ## FAQs
 
-WIP
+WIP. Feel free to ask me questions [on Twitter](https://twitter.com/codejake).
