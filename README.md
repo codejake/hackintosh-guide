@@ -1,4 +1,4 @@
-# 2019 Hackintosh Build Notes
+# My 2019 Hackintosh Build Guide
 
 ⚠️ This is currently a work-in-progress and it is incomplete. ⚠️
 
@@ -42,6 +42,8 @@ Most cards are too tall. The motherboard's antenna connectors will not reach and
 
 
 ### Upgrade your 970 EVO Plus Firmware
+
+Note: If you have a 970 EVO, or a 970 EVO Pro, you're already fine. The following information is strictly for the **970 EVO Plus* model!
 
 Out of the box, your 970 EVO Plus SSD is probably going to be incompatible with macOS.  You *must* apply the May 2019 firmware update before you begin the macOS installation procedure. 
 
