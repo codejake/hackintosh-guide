@@ -58,7 +58,7 @@ TL;DR: Write the firmware upgrade ISO image to a USB stick and boot off it and f
 
 I currently use the `iMac18,3` system identifier. As of 10.14.5, I should probably use `iMac19,something` but what I have now works really well.
 
-### The KEXTs I Use
+### The Kexts I Use
 
 ![EFI](EFI.png)
 
