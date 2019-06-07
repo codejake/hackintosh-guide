@@ -12,9 +12,9 @@ I have voluntarily reinstalled my macOS install several times to get practiced a
 If you spot any errors or typos, let me know.
 
 ## Warning
-You will run into roadblocks. And everyone will give you their advice. Most of it *awful*. Stay away from Unibeast, Multibeast, Tonymacx86.com, random people, etc.
+You will run into roadblocks. And everyone will give you their advice. Most of it is *awful*. The hackintosh world is full of people that don't know what they are doing, but are all-too-eager to dish out advice and even error-ridden corrections. Stay away from Unibeast, Multibeast, Tonymacx86.com, random people, etc.
 
-But keep things as vanilla as possible. Make minimal changes from the default installation. *Make sure you understand the changes you are making*.
+Do keep things as vanilla as possible. Make minimal changes from the default installation. Do not put any kexts or files in `/S/L/E`, `/L/E`, etc. Everything can go into your EFI partition. *Make sure you understand the changes you are making*.
 
 ## Hardware Build
 * Here is my exact build on [PCPartPicker](https://pcpartpicker.com/list/MCX2Cb).
@@ -58,6 +58,11 @@ TL;DR: Write the firmware upgrade ISO image to a USB stick and boot off it and f
 
 I currently use the `iMac18,3` system identifier. As of 10.14.5, I should probably use `iMac19,something` but what I have now works really well.
 
+### The KEXTs I Use
+
+![EFI](EFI.png)
+
+You should not need any more, or any less than this. The Airport* and Brcm* kexts are for the Dell DW1560, so you can skip those if you do not have this card.
 
 ## Post-Installation
 
