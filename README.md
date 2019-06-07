@@ -31,6 +31,13 @@ Do keep things as vanilla as possible. Make minimal changes from the default ins
 
 ## Pre-installation
 
+### BIOS/UEFI
+
+* Load Optimized Defaults
+* If you're going to do virtualization, turn on VT and VMX, otherwise you can leave it off. Ignore the instructions that tell you to turn it off. It installs and works fine with them on.
+* Set your Q-Fan Controls to Silent for that quiet Mac-like sound. For a while, I had a 2018 Mac Mini and I couldn't tell which machine was *quieter*.
+* Don't mess with the iGPU or iGPU Multi-Monitor settings as suggested in some tutorials, it's pretty flakey on this motherboard. Use the NoVPA/WhateverGreen flags mentioned below.
+
 ### (Optional) Swap out the Wi-Fi/Bluetooth Card
 
 Your motherboard comes with a very small Wi-Fi/Bluetooth m.2 card. It's a great card that works wonderfully in Windows 10. However, there are currently no macOS drivers for it. Your best option is the Dell DW 1560 Wi-Fi/Bluetooth card. You do not need any sort of daughterboard or converter board. It's a "simple" swap-out.
@@ -139,4 +146,6 @@ WIP. Feel free to ask me questions [on Twitter](https://twitter.com/codejake).
 
 If you have to ask, just buy a Mac instead. You'll spend much more money and have much less expandability, the safety and support you get with a Mac probably makes the price premium  worth it.
 
-Even though the hackintosh process has been much-streamlined as of late, it still involves quite a bit of tinkering. If you like to tinker, then you might want to give it a try.
+Even though the hackintosh process has been much-streamlined as of late, it still involves quite a bit of tinkering. 
+
+If you like to tinker, then you might want to give it a try. You can build a rocket of a machine, jammed full of cheap storage for a fraction of the cost of an equivalent Mac. Prices for good 1 TB NVMe SSDs are approaching the $100 price point.
