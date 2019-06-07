@@ -11,10 +11,13 @@ I have voluntarily reinstalled my macOS install several times to get practiced a
 
 If you spot any errors or typos, let me know.
 
-## Warning
-You will run into roadblocks. And everyone will give you their advice. Most of it is *awful*. The hackintosh world is full of people that don't know what they are doing, but are all-too-eager to dish out advice and even error-ridden corrections. Stay away from Unibeast, Multibeast, Tonymacx86.com, random people, etc.
 
-Do keep things as vanilla as possible. Make minimal changes from the default installation. Do not put any kexts or files in `/S/L/E`, `/L/E`, etc. Everything can go into your EFI partition. *Make sure you understand the changes you are making*.
+## Warning
+
+You **will** run into roadblocks. And *everyone* will give you their own advice. Most of it is **awful**. The hackintosh world is full of people that don't know what they are doing, but are all-too-eager to dish out advice and even error-ridden corrections. Stay away from Unibeast, Multibeast, Tonymacx86.com, random people, etc.
+
+Do keep things as vanilla as possible. Make minimal changes from the default installation. **Do not** put any kexts or files in `/S/L/E`, `/L/E`, etc. Everything can go into your EFI partition. *Make sure you understand the changes you are making*.
+
 
 ## Hardware Build
 * Here is my exact build on [PCPartPicker](https://pcpartpicker.com/list/MCX2Cb).
