@@ -124,6 +124,7 @@ So, what does this do? Well, it tells this part of the OS that it is an iMac Pro
 
 ## What Doesn't Work Yet
 
+* Unlock with Apple Watch.
 * ~~Wi-Fi/Bluetooth~~ FIXED! Bluetooth, Wi-Fi, AirDrop, AirPods, Continuity work wonderfully!
 * I need a webcam for FaceTime.
 * I don't know of anything else that doesn't work at this point.
